@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bita Motos
 
 Base inicial de um monólito modular em camadas para o Trabalho 4 de Análise de Sistemas.
@@ -33,3 +34,7 @@ O protótipo conceitual e interativo foi estruturado para demonstrar o fluxo de 
 
  [Acesse o Protótipo da Bita Motos no Figma]
  (https://www.figma.com/design/OSVb0OHRpr0GZGNW3HyGNs/Sem-t%C3%ADtulo?node-id=0-1&t=JzfSUVmSRAZYWGMf-1)
+=======
+# bita-motos-analise-sistemas
+Sistema Web de Venda e Controle de Peças para Motocicletas — Trabalho 4 ADS.
+>>>>>>> 3eb0eea005342d44ddf0b106a1b47f6205115e1d
