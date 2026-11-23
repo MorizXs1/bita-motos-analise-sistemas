@@ -1,0 +1,12 @@
+{
+  "name": "bita-motos",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "npm run dev --workspace @bita-motos/api & npm run dev --workspace @bita-motos/web",
+    "dev:api": "npm run dev --workspace @bita-motos/api",
+    "dev:web": "npm run dev --workspace @bita-motos/web",
+    "db:generate": "npm run db:generate --workspace @bita-motos/api",
+    "db:migrate": "npm run db:migrate --workspace @bita-motos/api"
+  }
+}
